@@ -1,0 +1,16 @@
+{
+  "title": "Loops, Case Statements, Arrays, and Vectors.",
+  "description": "This level will teach you how to use loops, case statements, arrays, and vectors, all functions and variable types that are ubiquitous in programming.",
+  "mission_icon": "mission_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "There's nothing like a good book."
+  },
+  "objectives": ["example_objective", "example_objective2"]
+}
